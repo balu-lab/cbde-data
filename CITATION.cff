@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "McKnight"
+  given-names: "Lawrence"
+title: "Cross-Base Data Encoding Performance on MNIST"
+doi: https://doi.org/10.5281/zenodo.13799222 
+date-released: 2024-09-24
+url: "https://github.com/balu-lab/cbde-data"
